@@ -23,7 +23,7 @@ const Hero = () => (
                             Manage your email marketing using AI
                         </h1>
                         <p className="max-w-xl mx-auto text-gray-300">
-                            Gain control of your business's growth with Mailgo's comprehensive marketing, automation, and email marketing platform.
+                            Gain control of your business's growth with EGmail's comprehensive marketing, automation, and email marketing platform.
                         </p>
                         <div className="flex justify-center font-medium text-sm">
                             <NavLink
@@ -41,7 +41,7 @@ const Hero = () => (
                         <Image
                             src={HeroImg}
                             className="shadow-lg rounded-2xl"
-                            alt="Mailgo"
+                            alt="EGmail"
                         />
                     </GradientWrapper>
                 </div>
